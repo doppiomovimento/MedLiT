@@ -14,7 +14,7 @@ This repository provides:
 
 Download pretrained MedLiT-seed weights from:
 
-[link to weights](https://drive.google.com/file/d/1C9hO6Nr3NdfPo3mBWkkDL6X4AFu814f_/view?usp=share_link)
+[link to weights](https://drive.google.com/file/d/1_3gRF-0N-9YpPJok5k_agou0mHP_lKjt/view?usp=share_link)
 
 The notebook expects that you unzip and upload the downloaded folder into your **Google Drive** and set the `weight_path` variable accordingly.
 
